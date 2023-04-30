@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
  -->
 
-### ⚡️ github stats
-[![Masibasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=masibasi&count_private=true&theme=dracula)](https://github.com/CHCHAENG/github-readme-stats)
+[![CHCHAENG's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHCHAENG&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masibasi&langs_count=8&hide=jupyter%20notebook&theme=dracula)](https://github.com/CHCHAENG/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHCHAENG&langs_count=8&hide=jupyter%20notebook&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
